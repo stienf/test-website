@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/test-website/static/css/main.5f361e03.chunk.css",
-    "main.js": "/test-website/static/js/main.eed532f3.chunk.js",
-    "main.js.map": "/test-website/static/js/main.eed532f3.chunk.js.map",
-    "runtime-main.js": "/test-website/static/js/runtime-main.0577f010.js",
-    "runtime-main.js.map": "/test-website/static/js/runtime-main.0577f010.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/test-website/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.37a2c965.chunk.js": "/test-website/static/js/2.37a2c965.chunk.js",
-    "static/js/2.37a2c965.chunk.js.map": "/test-website/static/js/2.37a2c965.chunk.js.map",
-    "index.html": "/test-website/index.html",
-    "precache-manifest.37a4cdd8e829eec06503f8653cbb69c5.js": "/test-website/precache-manifest.37a4cdd8e829eec06503f8653cbb69c5.js",
-    "service-worker.js": "/test-website/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/test-website/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/test-website/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.37a2c965.chunk.js.LICENSE.txt": "/test-website/static/js/2.37a2c965.chunk.js.LICENSE.txt",
-    "static/media/cocktail.png": "/test-website/static/media/cocktail.839a28fa.png",
-    "static/media/recipe.jpeg": "/test-website/static/media/recipe.2a5b4bc1.jpeg"
+    "main.css": "/stienf.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/stienf.github.io/static/js/main.a0896a5f.chunk.js",
+    "main.js.map": "/stienf.github.io/static/js/main.a0896a5f.chunk.js.map",
+    "runtime-main.js": "/stienf.github.io/static/js/runtime-main.712ed916.js",
+    "runtime-main.js.map": "/stienf.github.io/static/js/runtime-main.712ed916.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/stienf.github.io/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.37a2c965.chunk.js": "/stienf.github.io/static/js/2.37a2c965.chunk.js",
+    "static/js/2.37a2c965.chunk.js.map": "/stienf.github.io/static/js/2.37a2c965.chunk.js.map",
+    "index.html": "/stienf.github.io/index.html",
+    "precache-manifest.901bc1d75ba21016b6a1e55dce043d47.js": "/stienf.github.io/precache-manifest.901bc1d75ba21016b6a1e55dce043d47.js",
+    "service-worker.js": "/stienf.github.io/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/stienf.github.io/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/stienf.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.37a2c965.chunk.js.LICENSE.txt": "/stienf.github.io/static/js/2.37a2c965.chunk.js.LICENSE.txt",
+    "static/media/cocktail.png": "/stienf.github.io/static/media/cocktail.839a28fa.png",
+    "static/media/recipe.jpeg": "/stienf.github.io/static/media/recipe.2a5b4bc1.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0577f010.js",
+    "static/js/runtime-main.712ed916.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.37a2c965.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.eed532f3.chunk.js"
+    "static/js/main.a0896a5f.chunk.js"
   ]
 }
